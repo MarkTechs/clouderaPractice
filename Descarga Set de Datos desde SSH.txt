@@ -1,0 +1,6 @@
+
+Corre estos comandos desde la linea de comandos donde deseas deescargar estos archivos
+
+ 	wget http://datadosis.com/wp-content/uploads/2020/05/ml-100k.zip
+
+	wget http://datadosis.com/wp-content/uploads/2020/05/Material_Hadoop.zip
